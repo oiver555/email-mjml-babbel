@@ -1,0 +1,178 @@
+<mjml>
+  <mj-body background-color="white" width="600px">
+    <mj-section padding-bottom="10px">
+      <mj-column>
+        <mj-text align="center">
+          No Images? <a href="#" style="color:black">Click Here</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding-top="10px">
+      <mj-column>
+        <mj-image width="150px" src="https://i.imgur.com/Qv3gPOU.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0">
+      <mj-column padding="0" background-color="#FF7535">
+        <mj-text color="white" font-weight="500" letter-spacing="2px" align="center">
+          SALE ENDS TONIGHT!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0" background-color="#180F42">
+        <mj-image padding="0" border="0" src="https://i.imgur.com/Wr53kxt.gif" alt="" />
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text padding="50px" align="center" font-weight="600" font-family="helvetica, sans-serif">
+          <a href="#" style="text-decoration:none; color:#FF7535"> Start Speaking Spanish →</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0" width="400px">
+        <mj-text padding="0" align="center" line-height="2">
+          Last chance: You can still get 60% off our best 12-month and Lifetime plans - but only for a few more hours!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="15px">
+      <mj-column padding="0">
+        <mj-button href="#" background-color="#FF7535" height="50px" width="250px" font-size="16px" font-weight="500">
+          Get 60% OFF
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0C2E44">
+      <mj-column width="550px">
+        <mj-text color="white" align="center" font-family="serif" font-size="20px">
+          Your Babbel subscription includes
+        </mj-text>
+
+        <mj-image src="https://i.imgur.com/RhxebpH.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 25px" background-color="#0C2E44">
+
+      <mj-column>
+        <mj-image src="https://i.imgur.com/gXTekRU.png" alt="" />
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://i.imgur.com/Eup3Cij.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="10px" padding-bottom="30px" background-color="#0C2E44">
+
+      <mj-column>
+        <mj-text font-family="georgia" font-weight="600" color="white" align="center">
+          Real Life conversations
+        </mj-text>
+        <mj-text line-height="2" font-family="helvetica;sans-serif" color="white" align="center">
+          Learn everything you'll need for real-world situations
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+        <mj-text font-family="georgia" font-weight="600" color="white" font-family="serif" font-weight="500" align="center">
+          10-minutes lessons
+        </mj-text>
+        <mj-text line-height="2" font-family="helvetica;sans-serif" color="white" align="center">
+          Have conversations in a new language in as little as 3 weeks
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-weight="600" color="#FF7535">
+          EMAIL EXCLUSIVE OFFER:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0">
+      <mj-column padding="0">
+        <mj-text padding="0" font-size="25px" font-family="gerogia" align="center" font-weight="1000" color="#0C2E44">
+          Get 60% off Babbel Lifetime
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-button href="#" background-color="#FF7535" height="50px" width="250px" font-size="15px" font-weight="500">
+          SAVE NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0 180px">
+      <mj-column padding="0">
+        <mj-image href="#" padding="0" width="100px" src="https://i.imgur.com/p9JSmr2.png" alt="" />
+      </mj-column>
+      <mj-column padding="0">
+        <mj-image href="#" padding="0" width="100px" src="https://i.imgur.com/CIPb6wc.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="30px 170px">
+
+      <mj-column padding="0">
+        <mj-text color="#0C2E44" align="right" font-size="15px" font-weight="500">
+          <a href="#" style="color:#0C2E44">Help / FAQ</a>
+        </mj-text>
+      </mj-column>
+
+      <mj-column padding="0">
+        <mj-text color="#0C2E44" font-size="15px" font-weight="500" align="left">
+          <a href="#" style="color:#0C2E44">Home</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section padding="0">
+      <mj-column padding="0" width="70px">
+        <mj-image href="#" width="50px" padding="0" src="https://i.imgur.com/BvbHYcy.png" alt="" />
+      </mj-column>
+      <mj-column padding="0" width="70px">
+        <mj-image href="#" width="50px" padding="0" src="https://i.imgur.com/PXQLEY0.png" alt="" />
+      </mj-column>
+      <mj-column padding="0" width="70px">
+        <mj-image href="#" width="50px" padding="0" src="https://i.imgur.com/skUeE0K.png" alt="" />
+      </mj-column>
+      <mj-column padding="0" width="70px">
+        <mj-image href="#" width="50px" padding="0" src="https://i.imgur.com/pjchMu1.png" alt="" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="500px">
+        <mj-text align="center" color="#0C2E44" line-height="2">
+          Sale ends 11:59pm PT on 3/5/23. Available through web purchase only; not applicable towards in-app purchases.
+          <br>
+          <br>
+          This email was sent to osaintilien55@gmail.com.
+          <br>
+          Got this email from a friend? <a href="#" style="color:#FF7535">Get your offer here!</a> Babbel GmbH, Andreasstraße 72, 10243 Berlin, Germany <br>
+          No longer interested? <a href="#" style="font-weight:600; color:#0C2E44">Manage your settings</a> or <a href="#" style="font-weight:600; color:#0C2E44">unsubscribe</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
